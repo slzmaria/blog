@@ -1,2 +1,1 @@
-# blog
-first project
+### Symfony Blog
